@@ -1,0 +1,3 @@
+[submodule "zola theme"]
+	path = Blog/themes/hallo
+	url = /Users/tamino/Sites/Blog/templates/partials 
