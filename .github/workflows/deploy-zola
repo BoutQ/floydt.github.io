@@ -9,7 +9,7 @@ jobs:
   # This workflow contains a single job called "build"
   build:
     # Name
-    name: floydt/zola-deploy-action
+    name: floydt/deploy-zola
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -18,8 +18,8 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@master
       # Build and deply
-      - name: floydt/zola-deploy-action
-        uses: floydt/zola-deploy-action@v0.12.0
+      - name: floydt/deploy-zola
+        uses: shalzz/zola-deploy-action@v0.12.0
         env:
           # Target branch
           PAGES_BRANCH: gh-pages
