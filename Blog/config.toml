@@ -13,6 +13,8 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
+[extra.author]
+name = "Tamino Kölbl"
 
 [extra]
 # Put all your custom variables here
@@ -24,9 +26,6 @@ links = [
     { title = "GitHub", url = "https://github.com/floydt", icon = "github" },
     { title = "Twitter", url = "https://twitter.com/onimatl", icon = "twitter" }
 ]
-
-[extra.author]
-name = "Tamino Kölbl"
 
 [extra.theme]
 background = "#464c4b"
