@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://floydt.github.io/sitemap.xml
