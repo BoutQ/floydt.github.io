@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost/posts/hello-world/</loc>
+    <loc>https://floydt.github.io/posts/hello-world/</loc>
     <lastmod>2021-11-07T18:45:38+01:00</lastmod>
   </url><url>
-    <loc>localhost/posts/</loc>
+    <loc>https://floydt.github.io/posts/</loc>
     <lastmod>2021-11-07T18:45:38+01:00</lastmod>
   </url><url>
-    <loc>localhost/tags/posts/</loc>
+    <loc>https://floydt.github.io/tags/posts/</loc>
     <lastmod>2021-11-07T18:45:38+01:00</lastmod>
   </url><url>
-    <loc>localhost/tags/</loc>
+    <loc>https://floydt.github.io/tags/</loc>
     <lastmod>2021-11-07T18:45:38+01:00</lastmod>
   </url><url>
-    <loc>localhost/</loc>
+    <loc>https://floydt.github.io/</loc>
     <lastmod>2021-11-07T18:45:38+01:00</lastmod>
   </url><url>
-    <loc>localhost/about-me/</loc>
+    <loc>https://floydt.github.io/about-me/</loc>
     <lastmod>2021-11-07T00:00:00+00:00</lastmod>
   </url>
 </urlset>
