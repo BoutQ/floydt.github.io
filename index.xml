@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tamino Kölbl</title>
+    <link>localhost/</link>
+    <description>Recent content on Tamino Kölbl</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sun, 07 Nov 2021 18:45:38 +0100</lastBuildDate><atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>localhost/posts/hello-world/</link>
+      <pubDate>Sun, 07 Nov 2021 18:45:38 +0100</pubDate>
+      
+      <guid>localhost/posts/hello-world/</guid>
+      <description>Hello World Am I online?</description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>localhost/about-me/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/about-me/</guid>
+      <description>Hello there! I might tell a bit more about myself later on.</description>
+    </item>
+    
+  </channel>
+</rss>
