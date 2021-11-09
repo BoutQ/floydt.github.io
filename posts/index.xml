@@ -1,20 +1,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Tamino Kölbl</title>
-		<link>https://floydt.github.io/posts/</link>
+		<link>www.dumplingmanufaktur.de/posts/</link>
 		<description>Recent content in Posts on Tamino Kölbl</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Sun, 07 Nov 2021 18:45:38 +0100</lastBuildDate>
-		<atom:link href="https://floydt.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="www.dumplingmanufaktur.de/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Hello World</title>
-			<link>https://floydt.github.io/posts/hello-world/</link>
+			<link>www.dumplingmanufaktur.de/posts/hello-world/</link>
 			<pubDate>Sun, 07 Nov 2021 18:45:38 +0100</pubDate>
 			
-			<guid>https://floydt.github.io/posts/hello-world/</guid>
+			<guid>www.dumplingmanufaktur.de/posts/hello-world/</guid>
 			<description>Hello World Am I online?</description>
 			<content type="html"><![CDATA[<h2 id="hello-world">Hello World</h2>
 <p>Am I online?</p>
