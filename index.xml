@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tamino Kölbl</title>
-    <link>https://dumplingmanufaktur.de/</link>
+    <link>https://www.dumplingmanufaktur.de/</link>
     <description>Recent content on Tamino Kölbl</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 07 Nov 2021 18:45:38 +0100</lastBuildDate><atom:link href="https://dumplingmanufaktur.de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Nov 2021 18:45:38 +0100</lastBuildDate><atom:link href="https://www.dumplingmanufaktur.de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://dumplingmanufaktur.de/posts/hello-world/</link>
+      <link>https://www.dumplingmanufaktur.de/posts/hello-world/</link>
       <pubDate>Sun, 07 Nov 2021 18:45:38 +0100</pubDate>
       
-      <guid>https://dumplingmanufaktur.de/posts/hello-world/</guid>
+      <guid>https://www.dumplingmanufaktur.de/posts/hello-world/</guid>
       <description>Hello World Am I online?</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://dumplingmanufaktur.de/about-me/</link>
+      <link>https://www.dumplingmanufaktur.de/about-me/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://dumplingmanufaktur.de/about-me/</guid>
+      <guid>https://www.dumplingmanufaktur.de/about-me/</guid>
       <description>Hello there! I might tell a bit more about myself later on.</description>
     </item>
     
